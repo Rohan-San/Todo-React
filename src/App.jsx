@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { NewTodoForm } from './NewTodoForm'
 import './styles.css'
-import { TodoList } from './ToDoList'
+import { TodoList } from './TodoList'
 
 // Functions with Capital letter variables are called Components
 export default function App() {
